@@ -38,7 +38,7 @@ print_telegram_icon() {
 }
 
 display_ascii() {
-    echo -e "    ${RED}    Wings Node Team ${RESET}"
+    echo -e "    ${RED}    Wings       Node        Team ${RESET}"
     
 }
 
