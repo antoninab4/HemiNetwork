@@ -263,7 +263,7 @@ while true; do
         echo -e "    ${GREEN}Manage your node efficiently and easily.${RESET}"
         echo -e "${CYAN}║${RESET}"
         draw_middle_border
-        echo -e "    ${BLUE}Subscribe to our channel: ${YELLOW}https://t.me/WingsNodeTeam${RESET}"
+        echo -e " ${BLUE}Subscribe to our channel: ${YELLOW}https://t.me/WingsNodeTeam${RESET}"
         draw_middle_border
         echo -e "    ${YELLOW}Please choose an option:${RESET}"
         echo
